@@ -1,0 +1,29 @@
+{
+  "authors": [
+    {
+      "name": "Ivaniv Anton",
+      "email": "anton.o.ivaniv@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "kavalar\\": "src/"
+    }
+  },
+  "description": "Yii2 extensions for telegram bot service from kalavar/telegram_bot package",
+  "license": "MIT",
+  "name": "ivanivanton/yii2-telegram-bot",
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://asset-packagist.org"
+    }
+  ],
+  "require": {
+    "kavalar/telegram_bot": "^0.2.0",
+    "php": "^7.0.0",
+    "yiisoft/yii2": "~2.0.8"
+  },
+  "type": "yii2-extension",
+  "minimum-stability": "stable"
+}
