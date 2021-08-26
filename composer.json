@@ -12,7 +12,7 @@
   },
   "description": "Yii2 extensions for telegram bot service from kalavar/telegram_bot package",
   "license": "MIT",
-  "name": "ivanivanton/yii2-telegram-bot",
+  "name": "kavalar/yii2-telegram-bot",
   "repositories": [
     {
       "type": "composer",
